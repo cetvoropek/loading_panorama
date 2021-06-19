@@ -135,6 +135,16 @@
     right: 280px;
 
 }
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 10%; 
+    margin-top: -250px;
+    border-radius: 6em 6em 6em 6em;
+}
 #song {
     position: center !important;
     left: 31%;
